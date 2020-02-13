@@ -1,0 +1,25 @@
+PODS:
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - YBBNetworking (0.1.0)
+
+DEPENDENCIES:
+  - SDWebImage
+  - YBBNetworking (from `lib/YBBNetworking`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  YBBNetworking:
+    :path: lib/YBBNetworking
+
+SPEC CHECKSUMS:
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  YBBNetworking: 9d7351410b03edeeffa82ab8d4adead8ac546283
+
+PODFILE CHECKSUM: dad4480c29cab666c42f368962795510dbcc2393
+
+COCOAPODS: 1.8.4
